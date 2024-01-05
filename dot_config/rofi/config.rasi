@@ -1,0 +1,9 @@
+//@theme "/usr/share/rofi/themes/Arc-Dark.rasi"
+
+//@theme "/home/wingdr/.local/share/rofi/themes/spotlight-dark.rasi"
+
+@theme "/home/wingdr/.local/share/rofi/themes/rounded-gray-dark.rasi"
+
+configuration {
+	show-icons:true;
+}

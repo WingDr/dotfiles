@@ -1,0 +1,7 @@
+# 导入主题颜色配置
+# 原来tabspaces是8
+tabspaces: 4
+# 字体使用Soure Code Pro
+family: "CascadiaCodePL"
+# 背景不透明度
+background_opacity: 0.9

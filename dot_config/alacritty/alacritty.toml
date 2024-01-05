@@ -1,0 +1,13 @@
+import = [
+	"~/.config/alacritty/themes/themes/github_dark.toml"
+]
+
+[window]
+padding = { x = 0, y = 10 }
+opacity = 0.8
+blur = true
+dynamic_title = true
+
+[font]
+# normal = { family = "MesloLGS NF" }
+normal = { family = "CascadiaCodePL"}
